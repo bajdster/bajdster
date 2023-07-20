@@ -1,5 +1,6 @@
 ### Hi there I'm Michał👋
-![Black Minimalist Content Creator LinkedIn Banner (1)](https://github.com/bajdster/bajdster/assets/38719617/249450ea-5915-4c54-8c09-8540386698d1)
+![Orange and Gold Retro Animated Google Classroom Header](https://github.com/bajdster/bajdster/assets/38719617/c869e987-4d92-4103-9ee6-5cd6b6e684e5)
+
 
 
 ### My Tech Stuff
