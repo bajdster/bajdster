@@ -1,4 +1,5 @@
 ### Hi there I'm Michał👋
+![AvatarMaker (1)](https://github.com/bajdster/bajdster/assets/38719617/1cd53790-fe8c-4f72-86ef-e71192a16ece)
 
 ### My Tech Stuff
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev)
