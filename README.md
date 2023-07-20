@@ -1,5 +1,7 @@
 ### Hi there I'm Michał👋
 
+### My Tech Stuff
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git, react, ts, )](https://skills.thijs.gg)
 <!--
 **bajdster/bajdster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
