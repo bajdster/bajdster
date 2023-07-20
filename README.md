@@ -1,5 +1,6 @@
 ### Hi there I'm Michał👋
-![AvatarMaker (1)](https://github.com/bajdster/bajdster/assets/38719617/1cd53790-fe8c-4f72-86ef-e71192a16ece)
+![Black Minimalist Content Creator LinkedIn Banner (1)](https://github.com/bajdster/bajdster/assets/38719617/249450ea-5915-4c54-8c09-8540386698d1)
+
 
 ### My Tech Stuff
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev)
