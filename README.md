@@ -2,6 +2,8 @@
 
 ### My Tech Stuff
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev)
+### Want to learn
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,deno)](https://skillicons.dev)
 <!--
 **bajdster/bajdster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
