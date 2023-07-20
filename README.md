@@ -1,7 +1,7 @@
 ### Hi there I'm Michał👋
 
 ### My Tech Stuff
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts, react)](https://skillicons.dev)
 <!--
 **bajdster/bajdster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
