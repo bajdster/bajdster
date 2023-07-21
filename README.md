@@ -7,6 +7,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev)
 ### Want to learn
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,deno)](https://skillicons.dev)
+
+###Currently working on...
+- Wedding tables app - helps to plan wedding guest placement
+- Competition - search for random competition winner 
+![33HU](https://github.com/bajdster/bajdster/assets/38719617/eaf880fa-d363-4cfa-8744-0a6f2feac27c)
+
+
+
 <!--
 **bajdster/bajdster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
