@@ -14,7 +14,7 @@
 
   ...still moving forward
 ![33HU](https://github.com/bajdster/bajdster/assets/38719617/eaf880fa-d363-4cfa-8744-0a6f2feac27c)
-![tumblr_mt2tl2RJ5H1rwf1kno1_1280](https://github.com/bajdster/bajdster/assets/38719617/b1ce7d76-6bc7-42cc-92b1-ea2df705c771)
+
 
 
 
