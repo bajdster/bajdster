@@ -8,7 +8,7 @@
 ### Want to learn
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,deno)](https://skillicons.dev)
 
-###Currently working on...
+### Currently working on...
 - Wedding tables app - helps to plan wedding guest placement
 - Competition - search for random competition winner
 
