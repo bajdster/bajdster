@@ -11,6 +11,7 @@
 ### Currently working on...
 - Wedding tables app - helps to plan wedding guest placement
 - Competition - search for random competition winner
+- CookBook - searching for recipes by ingredients with Spoonacular API
 
   ...still moving forward
 ![33HU](https://github.com/bajdster/bajdster/assets/38719617/eaf880fa-d363-4cfa-8744-0a6f2feac27c)
